@@ -1,7 +1,7 @@
 # LabTrack 🔬
 > Real-time Campus Hardware Equipment & Robotics Lab Checkout Tracker
 
-LabTrack was built for **Rahul**, student coordinator of the college Robotics & Maker Society, to solve the chaotic hardware checkouts during university hackathons and lab sessions.
+LabTrack was built for  student coordinator of the college Robotics & Maker Society, to solve the chaotic hardware checkouts during university hackathons and lab sessions.
 
 It provides a single-screen live inventory of 12 real robotics, compute, and sensing kits stored across Locker B and Workbench 1–3, allowing students to check out and return gear with instant status updates and an audit trail.
 
